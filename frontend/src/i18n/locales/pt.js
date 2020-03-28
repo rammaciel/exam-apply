@@ -1,6 +1,6 @@
 export default {
 	translation: {
-		Login: {
+		GameIn: {
 			welcome: 'Meu boilerplate pessoal',
 		},
 	},

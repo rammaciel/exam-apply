@@ -1,0 +1,3 @@
+export const GAME_PIN_REQUEST = 'GAME_PIN_REQUEST';
+export const GAME_PIN_SUCCESS = 'GAME_PIN_SUCCESS';
+export const GAME_PIN_ERROR = 'GAME_PIN_ERROR';

@@ -1,5 +1,9 @@
-import { createMuiTheme } from '@material-ui/core';
+import typography from './typography';
+import colors from './colors';
 
-const theme = createMuiTheme({});
+const theme = {
+	typography,
+	colors,
+};
 
 export default theme;
